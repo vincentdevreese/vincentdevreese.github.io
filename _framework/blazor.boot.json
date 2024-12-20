@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PokerThursdayBlazorApp",
   "resources": {
-    "hash": "sha256-q6e33PshO9HMoZ842GNFVmMUaod+LdBJqIzQ3ngnLso=",
+    "hash": "sha256-bM5yxaPGduWke2xq7a81Dpg9fDG0Yq4NM9Rq8EPgHi4=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.n1sf6xr5tz.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -32,8 +32,8 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-DOtnQ3+rR9fdahebbFqXxx60H7B8jR03AaYj4y/r7z4=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-nJo9AftA2/mHxtXapqHsgjzQgIHOpue2DnVtxkgTSME=",
-      "PokerThursday.wasm": "sha256-xe4c3RKzwXfRs9t0FhfRza+ouMlsuMdPP7FgZJI1X6g=",
-      "PokerThursdayBlazorApp.wasm": "sha256-v8nScmfe9ZExJ7qwbsvfZUXMfj/EWUkUl1xQujt/yEQ=",
+      "PokerThursday.wasm": "sha256-XVgcpoeWUcfFCB4mkCfn9LdW53DQCrSzUDvwgz+s8HE=",
+      "PokerThursdayBlazorApp.wasm": "sha256-twl2cnLg5uVQVPsJHl2qH8HRxsljBgBYP1ll2WR9ytM=",
       "System.Collections.Concurrent.wasm": "sha256-yHR0wrA3b0QaHajPSd2rIeWUDfokeLhf3UsO3BvZDfo=",
       "System.Collections.NonGeneric.wasm": "sha256-Jq9Og+e+P6NVe2cnZqNtxVMDzLELlZ6UjQMVUjxs8mc=",
       "System.Collections.Specialized.wasm": "sha256-IlZ0OMRcqbdyT7hHYCCX0QLBZmXvXcMQvePgWR+fkJU=",
