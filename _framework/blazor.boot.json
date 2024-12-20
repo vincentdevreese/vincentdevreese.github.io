@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PokerThursdayBlazorApp",
   "resources": {
-    "hash": "sha256-JD6HcUS9gp5CwBUgzYclazEOGwEEPslsyyzpb67x4kY=",
+    "hash": "sha256-OXc7RSdK802biNeI1l4+qt2UhepzWAlUgzqL8WSNYf8=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.n1sf6xr5tz.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -32,8 +32,8 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
       "Microsoft.JSInterop.wasm": "sha256-DOtnQ3+rR9fdahebbFqXxx60H7B8jR03AaYj4y/r7z4=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-nJo9AftA2/mHxtXapqHsgjzQgIHOpue2DnVtxkgTSME=",
-      "PokerThursday.wasm": "sha256-fO2EEgNRfXpqyIQxpNuV+SknUod6UV1LiVXW1ue76+A=",
-      "PokerThursdayBlazorApp.wasm": "sha256-1yE1RLOdccXMQmT8jbx/OVaEgYoRgyo2V4JgH1CuDuY=",
+      "PokerThursday.wasm": "sha256-J6MCVluTd6JQGdMKcB9sOOduGWI6Rmb5yaO32lBU1ng=",
+      "PokerThursdayBlazorApp.wasm": "sha256-9RGV85HrStek1gydbBIZOxmWZgmCNkc9HubBGEgGon4=",
       "System.Collections.Concurrent.wasm": "sha256-dg+79ZLltUCfumnQ4F7d2GGC62/rJmfeGuEsf3czokc=",
       "System.Collections.NonGeneric.wasm": "sha256-fJB6kJgXKjPEGuDHMuD9D5F31T8MBLRfVbkqjDLkBHI=",
       "System.Collections.Specialized.wasm": "sha256-bSLSG/4k9ULP+xRVAH4KVyZsqGiV0JUGJcnMwGqgg1Y=",
@@ -45,7 +45,7 @@
       "System.Console.wasm": "sha256-IMCkZyNHbwSeE6FkSCw35eC4v/a3bwL3tt2bYjt3NLI=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-HNdyoy6mXpG39AsbSPMwR6AnKnpK8ENAVf/PNIIpO8U=",
       "System.Linq.Expressions.wasm": "sha256-cwA6ptLs6CkPKGbCTxu45DAP9dqk3OBipzr5JLEcm94=",
-      "System.Linq.wasm": "sha256-1bv0I6K2qHCBkps9fV3WLsgKFFhp7QV+JEIDAI/nW/c=",
+      "System.Linq.wasm": "sha256-Qj59Hl4dIw6ynjJPVGZ/HnN0k7puTEcOq9mOf9vhe2E=",
       "System.Memory.wasm": "sha256-EVduMk7Y7SO807EnatuiDxl8o/RTAnqWWl830Cd8s6g=",
       "System.Net.Http.Json.wasm": "sha256-aROVQvK5NJqrWHuWlFr/HUyYy+/RjWYJMYEJ2lvUZGc=",
       "System.Net.Http.wasm": "sha256-LrgN+zRCch/bWZ8qPT8N4uPxbw0ipON5tRA4JdZJzo0=",
